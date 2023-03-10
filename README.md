@@ -1,2 +1,2 @@
 # er_diagrams
-ER-Diagram Assignemts
+ER-Diagram Assigments
